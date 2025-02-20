@@ -1,4 +1,3 @@
-Hello there!
 
 English to Tamil Transformer
 This project implements a Transformer model using TensorFlow for English to Tamil translation.
@@ -7,7 +6,6 @@ Table of Contents
 Introduction
 Usage
 Training
-License
 
 
 Introduction
@@ -46,7 +44,4 @@ python
 
       print(f'Epoch {epoch + 1} Loss {train_loss.result():.4f} Accuracy {train_accuracy.result():.4f}')
 
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details
 
